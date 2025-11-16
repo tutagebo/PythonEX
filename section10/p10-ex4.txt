@@ -1,0 +1,19 @@
+引数、返り値なし、定型動作を依頼
+    pendown()
+    penup()
+
+引数を渡し、返り値、引数に応じた動作を依頼
+    forward(d)
+    back(d)
+    right(a)
+    left(a)
+    goto(x, y)
+    setheading(a)
+
+引数なし、返り値をもらう
+    position()
+    heading()
+    isdown()
+
+引数を渡し、返り値をもらう
+    なし
